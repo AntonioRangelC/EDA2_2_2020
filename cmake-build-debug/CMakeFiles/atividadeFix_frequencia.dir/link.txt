@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\atividadeFix_frequencia.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\atividadeFix_frequencia.dir/objects.a @CMakeFiles\atividadeFix_frequencia.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\atividadeFix_frequencia.dir/objects.a -Wl,--no-whole-archive -o atividadeFix_frequencia.exe -Wl,--out-implib,libatividadeFix_frequencia.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\atividadeFix_frequencia.dir\linklibs.rsp

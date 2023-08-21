@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ordemAlfabetica.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ordemAlfabetica.dir/objects.a @CMakeFiles\ordemAlfabetica.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\ordemAlfabetica.dir/objects.a -Wl,--no-whole-archive -o ordemAlfabetica.exe -Wl,--out-implib,libordemAlfabetica.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ordemAlfabetica.dir\linklibs.rsp

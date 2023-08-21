@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\problema_trocado.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\problema_trocado.dir/objects.a @CMakeFiles\problema_trocado.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\problema_trocado.dir/objects.a -Wl,--no-whole-archive -o problema_trocado.exe -Wl,--out-implib,libproblema_trocado.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\problema_trocado.dir\linklibs.rsp

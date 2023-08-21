@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\quickSort_otimizado.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\quickSort_otimizado.dir/objects.a @CMakeFiles\quickSort_otimizado.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\quickSort_otimizado.dir/objects.a -Wl,--no-whole-archive -o quickSort_otimizado.exe -Wl,--out-implib,libquickSort_otimizado.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\quickSort_otimizado.dir\linklibs.rsp

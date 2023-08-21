@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\desfilePatosHash.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\desfilePatosHash.dir/objects.a @CMakeFiles\desfilePatosHash.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\desfilePatosHash.dir/objects.a -Wl,--no-whole-archive -o desfilePatosHash.exe -Wl,--out-implib,libdesfilePatosHash.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\desfilePatosHash.dir\linklibs.rsp

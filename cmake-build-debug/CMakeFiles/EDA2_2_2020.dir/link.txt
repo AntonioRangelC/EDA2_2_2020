@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\EDA2_2_2020.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\EDA2_2_2020.dir/objects.a @CMakeFiles\EDA2_2_2020.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\EDA2_2_2020.dir/objects.a -Wl,--no-whole-archive -o EDA2_2_2020.exe -Wl,--out-implib,libEDA2_2_2020.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EDA2_2_2020.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\leo_henrique_turne.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\leo_henrique_turne.dir/objects.a @CMakeFiles\leo_henrique_turne.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\leo_henrique_turne.dir/objects.a -Wl,--no-whole-archive -o leo_henrique_turne.exe -Wl,--out-implib,libleo_henrique_turne.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\leo_henrique_turne.dir\linklibs.rsp

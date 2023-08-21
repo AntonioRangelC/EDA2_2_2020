@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\calcularTempoDeExecucao.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\calcularTempoDeExecucao.dir/objects.a @CMakeFiles\calcularTempoDeExecucao.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\calcularTempoDeExecucao.dir/objects.a -Wl,--no-whole-archive -o calcularTempoDeExecucao.exe -Wl,--out-implib,libcalcularTempoDeExecucao.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\calcularTempoDeExecucao.dir\linklibs.rsp

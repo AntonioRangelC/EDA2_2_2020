@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\quickSelect.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\quickSelect.dir/objects.a @CMakeFiles\quickSelect.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\quickSelect.dir/objects.a -Wl,--no-whole-archive -o quickSelect.exe -Wl,--out-implib,libquickSelect.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\quickSelect.dir\linklibs.rsp

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/anton/Desktop/EDA2_2.2020/leo_henrique_turne.c
+stdio.h
+-
+ctype.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="EDA2_2_2020"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EDA2_2_2020">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/EDA2_2_2020.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 EDA2_2_2020"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EDA2_2_2020/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/EDA2_2_2020.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 EDA2_2_2020/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atividade1_EDA2">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/atividade1_EDA2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 atividade1_EDA2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atividade1_EDA2/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/atividade1_EDA2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 atividade1_EDA2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pesquisaInstrucoes">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/pesquisaInstrucoes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 pesquisaInstrucoes"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pesquisaInstrucoes/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/pesquisaInstrucoes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 pesquisaInstrucoes/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bubbleSort">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/bubbleSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 bubbleSort"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bubbleSort/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/bubbleSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 bubbleSort/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atividadeFix_frequencia">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/atividadeFix_frequencia.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 atividadeFix_frequencia"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atividadeFix_frequencia/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/atividadeFix_frequencia.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 atividadeFix_frequencia/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mergeSort">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/mergeSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 mergeSort"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mergeSort/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/mergeSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 mergeSort/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testes">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/testes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 testes"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testes/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/testes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 testes/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="selectionSort">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/selectionSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 selectionSort"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="selectionSort/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/selectionSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 selectionSort/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atividadeFix_mergesort1">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/atividadeFix_mergesort1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 atividadeFix_mergesort1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atividadeFix_mergesort1/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/atividadeFix_mergesort1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 atividadeFix_mergesort1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atividadeFix_intercala8">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/atividadeFix_intercala8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 atividadeFix_intercala8"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atividadeFix_intercala8/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/atividadeFix_intercala8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 atividadeFix_intercala8/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="classificandoSementes">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/classificandoSementes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 classificandoSementes"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="classificandoSementes/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/classificandoSementes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 classificandoSementes/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="menoresPlacas">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/menoresPlacas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 menoresPlacas"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="menoresPlacas/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/menoresPlacas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 menoresPlacas/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="insertionSort">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/insertionSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertionSort"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="insertionSort/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/insertionSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertionSort/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="numMalucos_180098021">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/numMalucos_180098021.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 numMalucos_180098021"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="numMalucos_180098021/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/numMalucos_180098021.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 numMalucos_180098021/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quicksortM3">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/quicksortM3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 quicksortM3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quicksortM3/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/quicksortM3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 quicksortM3/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="filaPrioridade">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/filaPrioridade.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 filaPrioridade"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="filaPrioridade/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/filaPrioridade.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 filaPrioridade/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="desfilePatos">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/desfilePatos.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 desfilePatos"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="desfilePatos/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/desfilePatos.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 desfilePatos/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="olaMundo">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/olaMundo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 olaMundo"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="olaMundo/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/olaMundo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 olaMundo/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="soma2">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/soma2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 soma2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="soma2/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/soma2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 soma2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="somaN">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/somaN.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 somaN"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="somaN/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/somaN.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 somaN/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="calcularTempoDeExecucao">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/calcularTempoDeExecucao.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 calcularTempoDeExecucao"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="calcularTempoDeExecucao/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/calcularTempoDeExecucao.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 calcularTempoDeExecucao/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kk-pagina">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/kk-pagina.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 kk-pagina"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kk-pagina/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/kk-pagina.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 kk-pagina/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ordemAlfabetica">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/ordemAlfabetica.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 ordemAlfabetica"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ordemAlfabetica/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/ordemAlfabetica.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 ordemAlfabetica/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ordenaStruct">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/ordenaStruct.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 ordenaStruct"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ordenaStruct/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/ordenaStruct.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 ordenaStruct/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problema_trocado">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/problema_trocado.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 problema_trocado"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problema_trocado/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/problema_trocado.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 problema_trocado/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="remocao">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/remocao.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 remocao"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="remocao/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/remocao.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 remocao/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quickSort_otimizado">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/quickSort_otimizado.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 quickSort_otimizado"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quickSort_otimizado/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/quickSort_otimizado.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 quickSort_otimizado/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quickSelect">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/quickSelect.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 quickSelect"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quickSelect/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/quickSelect.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 quickSelect/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leo_henrique_turne">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/leo_henrique_turne.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 leo_henrique_turne"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leo_henrique_turne/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/leo_henrique_turne.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 leo_henrique_turne/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="heapSort">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/heapSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 heapSort"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="heapSort/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/heapSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 heapSort/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mensagensNlogonienses">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/mensagensNlogonienses.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 mensagensNlogonienses"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mensagensNlogonienses/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/mensagensNlogonienses.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 mensagensNlogonienses/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arvoreBuscaBinaria">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/arvoreBuscaBinaria.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 arvoreBuscaBinaria"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arvoreBuscaBinaria/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/arvoreBuscaBinaria.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 arvoreBuscaBinaria/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="desfilePatosHash">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/desfilePatosHash.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 desfilePatosHash"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="desfilePatosHash/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/desfilePatosHash.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 desfilePatosHash/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="elementoMaisFrequente">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/elementoMaisFrequente.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 elementoMaisFrequente"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="elementoMaisFrequente/fast">
+				<Option output="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/elementoMaisFrequente.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 elementoMaisFrequente/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/anton/Desktop/EDA2_2.2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/arvoreBuscaBinaria.c">
+			<Option target="arvoreBuscaBinaria"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/atividade1_EDA2.c">
+			<Option target="atividade1_EDA2"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/atividadeFix_frequencia.c">
+			<Option target="atividadeFix_frequencia"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/atividadeFix_intercala8.c">
+			<Option target="atividadeFix_intercala8"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/atividadeFix_mergesort1.c">
+			<Option target="atividadeFix_mergesort1"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/bubbleSort.c">
+			<Option target="bubbleSort"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/calcularTempoDeExecucao.c">
+			<Option target="calcularTempoDeExecucao"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/classificandoSementes.c">
+			<Option target="classificandoSementes"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/desfilePatos.c">
+			<Option target="desfilePatos"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/desfilePatosHash.c">
+			<Option target="desfilePatosHash"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/elementoMaisFrequente.c">
+			<Option target="elementoMaisFrequente"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/filaPrioridade.c">
+			<Option target="filaPrioridade"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/heapSort.c">
+			<Option target="heapSort"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/insertionSort.c">
+			<Option target="insertionSort"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/kk-pagina.c">
+			<Option target="kk-pagina"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/leo_henrique_turne.c">
+			<Option target="leo_henrique_turne"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/main.c">
+			<Option target="EDA2_2_2020"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/menoresPlacas.c">
+			<Option target="menoresPlacas"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/mensagensNlogonienses.c">
+			<Option target="mensagensNlogonienses"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/mergeSort.c">
+			<Option target="mergeSort"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/numMalucos_180098021.c">
+			<Option target="numMalucos_180098021"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/olaMundo.c">
+			<Option target="atividade1_EDA2"/>
+			<Option target="olaMundo"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/ordemAlfabetica.c">
+			<Option target="ordemAlfabetica"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/ordenaStruct.c">
+			<Option target="ordenaStruct"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/pesquisaInstrucoes.c">
+			<Option target="pesquisaInstrucoes"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/problema_trocado.c">
+			<Option target="problema_trocado"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/quickSelect.c">
+			<Option target="quickSelect"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/quickSort_otimizado.c">
+			<Option target="quickSort_otimizado"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/quicksortM3.c">
+			<Option target="quicksortM3"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/remocao.c">
+			<Option target="remocao"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/selectionSort.c">
+			<Option target="selectionSort"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/soma2.c">
+			<Option target="soma2"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/somaN.c">
+			<Option target="somaN"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/testes.c">
+			<Option target="testes"/>
+		</Unit>
+		<Unit filename="C:/Users/anton/Desktop/EDA2_2.2020/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
